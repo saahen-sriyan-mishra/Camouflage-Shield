@@ -12,7 +12,7 @@ Button encrypt/save a form will appear to input an image choose a process for en
 User can have many such image stored.
 (Re-Open the application again to see that the stored format is visible.)
 (Algorithms used here are Advanced Encryption Standard (AES),Data Encryption Standard (DES),Triple DES (3DES), RC2 and Rijndael)
-User copy the code either from the display (Encrypted code display TextBox) or from the dataset grid.
+User copy the code either from the display (Encrypted code display Text Box) or from the dataset grid.
 Click the view button, paste the code.
 The original image will only appear if proper process is selected along with proper key being entered. Else error message.
 There is a third button "use hash text encrypter" as name suggest for any text entry corresponding hashed encrypted format will be displayed.
