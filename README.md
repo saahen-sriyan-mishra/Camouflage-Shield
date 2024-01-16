@@ -29,14 +29,14 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - Log in with your credentials.
 - Encrypt and save images using different algorithms.
 - Copy the encrypted image code.
-- View encrypted images using the proper algorithm and key.
-- Use the hash text encrypter for text-based encryption.
+- View encrypted images using the proper algorithm and key after entering the proper image code.
+- Use the hash text encrypter for text-based encryption. (used for demonstartion in case Database not is accessable)
 
 ## Limitations
 
 - Avoid high-resolution or very complex images (limited to 1MB).
 - The application may face challenges with large volumes of data generated while image processing.
-- Dynamic updation limitation (need to re-start application to login, image encrypted code is visible only after re start)
+- Dynamic updation limitation (need to re-start application to login, image encrypted code is visible only after re-start)
 
 ## Security Considerations
 
