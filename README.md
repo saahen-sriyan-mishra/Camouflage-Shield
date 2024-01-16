@@ -36,6 +36,7 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 - Avoid high-resolution or very complex images (limited to 1MB).
 - The application may face challenges with large volumes of data generated while image processing.
+- Dynamic updation limitation (need to re-start application to login, image encrypted code is visible only after re start)
 
 ## Security Considerations
 
