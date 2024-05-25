@@ -41,12 +41,12 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - Useer profile may not show any text for encryption but can be copy pasted for decrypting and viewing the image.
 
 ## Sample credentials
-- A profile is already made with these so feel free to experiment/ make a new if you want to
-11/11/2002
-qadrtyh@axcfredfv.asdredf
-2223334445
-patrick_bateman_9612
-asdASD`12345
+A profile is already made with these so feel free to experiment/ Recomended to create a new profile if you want to actually use the application
+- 11/11/2002
+- qadrtyh@axcfredfv.asdredf
+- 2223334445
+- patrick_bateman_9612
+- asdASD`12345
 
 ## Security Considerations
 - Passwords are hashed using MD5, SHA-1, SHA-256, SHA-384, and SHA-512
