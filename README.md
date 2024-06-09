@@ -32,7 +32,7 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - View encrypted images using the proper algorithm and key after entering the proper image code.
 - Use the hash text encrypter for text-based encryption. (used for demonstartion in case Database not is accessable)
 
-## Limitations UPDATED.. New version do not contain these
+## Limitations (UPDATED) New version do not contain these issues.
 - Avoid high-resolution or very complex images (limited to 1MB).
 - The application may face challenges with large volumes of data generated while image processing.
 
