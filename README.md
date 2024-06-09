@@ -49,7 +49,7 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - MD5, SHA-1, SHA-256, SHA-384 and SHA-512 are used for encrypting and storing the login credentials data, but for understanding purposes the hash text button is used.
 - (MD5 and SHA1 are low level algorithm for data storing so not used in real world application, but used here for diversity in algorithms)
 - Also for reference, actual error message are kept visible along with implementational error message.
-- While using, create a new database for establishing connection and change the reference of database and in Form1.cs line 76 and
+- While using, create a new database for establishing connection and change the reference of database and in Form1.cs line 76 and Encrypt.cs line 363.
 
 
 
