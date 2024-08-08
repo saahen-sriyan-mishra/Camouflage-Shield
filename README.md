@@ -25,14 +25,16 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 ## Usage
 
-- Launch the application and sign up for a new account.
+- Launch the application and sign up for a new account (new user).
 - Log in with your credentials.
 - Encrypt and save images using different algorithms.
 - Copy the encrypted image code.
 - View encrypted images using the proper algorithm and key after entering the proper image code.
 - Use the hash text encrypter for text-based encryption. (used for demonstartion in case Database not is accessable)
 
-**EXAMPLE ACCOUNT**
+### EXAMPLE
+
+**ACCOUNT:** Format specifications are handled while in signup page
 - 21/01/2001
 - qardtyh&#64;axcfredfv;asdredf
 - 0122334455
@@ -43,14 +45,14 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 ![Batman Logo](https://github.com/user-attachments/assets/de229f17-a930-4693-a60b-52bbce84cefd)
 
-ENCRYPTION
+**ENCRYPTION**
 Process 2
 Key: BAT
 
 [Encrypted format for the image](https://github.com/saahen-sriyan-mishra/Camouflage-Shield/blob/main/Batman%20Logo%20Encrypted.txt)  
 - (Copy this to test out for yourself)
 
-**Correct process (encryption algorithms from AES, DES, 3DES, RC2, Rijndael) and Key: It works**  
+**Correct process (encryption algorithms from AES, DES, 3DES, RC2, Rijndael) and Key:** It works
 ![1](https://github.com/user-attachments/assets/6e89f21c-18b1-448f-b52e-03d13f8e63c9)
 
 **Incorrect selection and key**
@@ -59,10 +61,12 @@ Key: BAT
 
 
 **A hash encryption for having encrypting text:** To demonstrate what happens in backend
-![1 1](https://github.com/user-attachments/assets/a87dfdd5-fff6-47ab-a3a8-9f75bd1bfb84)
-![1 2](https://github.com/user-attachments/assets/4180adb0-77d1-4613-bfc4-352ae4df5504)
-![1 3](https://github.com/user-attachments/assets/c07e9605-5030-44bd-b7eb-9ca8d8f127f8)
+![1 1](https://github.com/user-attachments/assets/cd14f80d-498e-4192-9e9f-e4d02ad85af2)
+![1 2](https://github.com/user-attachments/assets/4a017cd7-e1c9-46eb-a1eb-a0e88e1dee9c)
+![1 3](https://github.com/user-attachments/assets/adb261e3-2983-439f-96ba-ba26212a9459)
 
+
+-------------------------------------------------------------------------------------------
 
 ## Limitations (UPDATED) New version do not contain these issues.
 - Avoid high-resolution or very complex images (limited to 1MB).
