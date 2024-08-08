@@ -46,7 +46,7 @@ ENCRYPTION
 Process 2
 Key: BAT
 
-[Encrypted format for the image](https://github.com/username/repository/blob/main/path/to/yourfile.ext)  
+[Encrypted format for the image](https://github.com/saahen-sriyan-mishra/Camouflage-Shield/blob/main/Batman%20Logo%20Encrypted.txt)  
 - (Copy this to test out for yourself)
 
 **Correct process (encryption algorithms from AES, DES, 3DES, RC2, Rijndael) and Key: It works**  
