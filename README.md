@@ -26,10 +26,22 @@ The project employs various encryption and hashing algorithms to ensure secure u
 ## Usage
 
 - Launch the application and sign up for a new account (new user).
+  (Format to enter data is restricted with frontend functions, No data manupulation is possible after confirmation.)
+  ![SignUp](https://github.com/user-attachments/assets/202a1388-3c24-4e99-96c4-af0219b26928)
+
 - Log in with your credentials.
+  ![Login](https://github.com/user-attachments/assets/b903f2de-00ce-4e43-95c4-138a1b0e916b)
+
+- Welcome page showing all saved data (Encrypted Data string is not visible but is saved, so user can copy from it.)
+![Welcome page](https://github.com/user-attachments/assets/e5da6393-af24-421b-b0e4-0a8b200a10b3)
+
 - Encrypt and save images using different algorithms.
+  ![Encrypt](https://github.com/user-attachments/assets/7976f5a6-17ce-42a6-9914-9acabb5da444)
+
 - Copy the encrypted image code.
 - View encrypted images using the proper algorithm and key after entering the proper image code.
+[Check Go to Late Heading](#later-heading)
+
 - Use the hash text encrypter for text-based encryption. (used for demonstartion in case Database not is accessable)
 
 ### EXAMPLE
@@ -49,7 +61,7 @@ The project employs various encryption and hashing algorithms to ensure secure u
 Process 2
 Key: BAT
 
-[Encrypted format for the image](https://github.com/saahen-sriyan-mishra/Camouflage-Shield/blob/main/Batman%20Logo%20Encrypted.txt)  
+[Encrypted Base64 format of the image](https://github.com/saahen-sriyan-mishra/Camouflage-Shield/blob/main/Batman%20Logo%20Encrypted.txt)  
 - (Copy this to test out for yourself)
 
 **Correct process (encryption algorithms from AES, DES, 3DES, RC2, Rijndael) and Key:** It works
