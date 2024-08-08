@@ -39,21 +39,20 @@ The project employs various encryption and hashing algorithms to ensure secure u
   ![Encrypt](https://github.com/user-attachments/assets/7976f5a6-17ce-42a6-9914-9acabb5da444)
 
 - Copy the encrypted image code.
-- View encrypted images using the proper algorithm and key after entering the proper image code.
-[Check](#encryption)
+- [View](#encryption) encrypted images using the proper algorithm and key after entering the proper image code.
 
-- Use the hash text encrypter for text-based encryption. (used for demonstartion in case Database not is accessable)
+- Using the hash text encrypter for text-based encryption. [Demonstration](#a-hash-encryption-for-having-encrypting-text-to-demonstrate-what-happens-in-backend)
 
 ## EXAMPLE
 
-### ACCOUNT: Format specifications are handled while in signup page
+**ACCOUNT:** Format specifications are handled while in signup page
 - 21/01/2001
 - qardtyh&#64;axcfredfv;asdredf
 - 0122334455
 - patrick_bateman_9612
 - asdASD`1234567
 
-### IMAGE
+**IMAGE**
 
 ![Batman Logo](https://github.com/user-attachments/assets/de229f17-a930-4693-a60b-52bbce84cefd)
 
@@ -72,7 +71,7 @@ Key: BAT
 ![3](https://github.com/user-attachments/assets/35bbf21d-6fad-472c-8589-d702c43eb32a)
 
 
-**A hash encryption for having encrypting text:** To demonstrate what happens in backend
+### A hash encryption for having encrypting text (To demonstrate what happens in backend)
 ![1 1](https://github.com/user-attachments/assets/cd14f80d-498e-4192-9e9f-e4d02ad85af2)
 ![1 2](https://github.com/user-attachments/assets/4a017cd7-e1c9-46eb-a1eb-a0e88e1dee9c)
 ![1 3](https://github.com/user-attachments/assets/adb261e3-2983-439f-96ba-ba26212a9459)
