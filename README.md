@@ -40,24 +40,24 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 - Copy the encrypted image code.
 - View encrypted images using the proper algorithm and key after entering the proper image code.
-[Check Go to Late Heading](#later-heading)
+[Check](#encryption)
 
 - Use the hash text encrypter for text-based encryption. (used for demonstartion in case Database not is accessable)
 
-### EXAMPLE
+## EXAMPLE
 
-**ACCOUNT:** Format specifications are handled while in signup page
+### ACCOUNT: Format specifications are handled while in signup page
 - 21/01/2001
 - qardtyh&#64;axcfredfv;asdredf
 - 0122334455
 - patrick_bateman_9612
 - asdASD`1234567
 
-**IMAGE**
+### IMAGE
 
 ![Batman Logo](https://github.com/user-attachments/assets/de229f17-a930-4693-a60b-52bbce84cefd)
 
-**ENCRYPTION**
+### ENCRYPTION
 Process 2
 Key: BAT
 
