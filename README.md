@@ -40,6 +40,7 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - asdASD`1234567
 
 **IMAGE**
+
 ![Batman Logo](https://github.com/user-attachments/assets/de229f17-a930-4693-a60b-52bbce84cefd)
 
 ENCRYPTION
