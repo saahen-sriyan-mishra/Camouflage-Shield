@@ -47,7 +47,7 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 **ACCOUNT:** Format specifications are handled while in signup page
 - 21/01/2001
-- qardtyh&#64;axcfredfv;asdredf
+- qardtyh&#64;axcfredfve&#46;asdredf
 - 0122334455
 - patrick_bateman_9612
 - asdASD`1234567
