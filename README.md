@@ -32,7 +32,7 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - Log in with your credentials.
   ![Login](https://github.com/user-attachments/assets/b903f2de-00ce-4e43-95c4-138a1b0e916b)
 
-- Welcome page showing all saved data (Encrypted Data string is not visible but is saved, so user can copy from it.)
+- Welcome page showing all saved data (Encrypted Data string is not visible but is saved, so user can copy from it and see the image in "View Image" by selecting the correct process and giving the right Key.)
 ![Welcome page](https://github.com/user-attachments/assets/e5da6393-af24-421b-b0e4-0a8b200a10b3)
 
 - Encrypt and save images using different algorithms.
