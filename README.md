@@ -37,7 +37,8 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 - Encrypt and save images using different algorithms.
   ![Encrypt](https://github.com/user-attachments/assets/7976f5a6-17ce-42a6-9914-9acabb5da444)
-
+  
+- Image is now saved in the data base.
 - Copy the encrypted image code.
 - [View](#encryption) encrypted images using the proper algorithm and key after entering the proper image code.
 
@@ -79,14 +80,14 @@ Key: BAT
 
 -------------------------------------------------------------------------------------------
 
-## Limitations (UPDATED) New version do not contain these issues.
-- Avoid high-resolution or very complex images (limited to 1MB).
-- The application may face challenges with large volumes of data generated while image processing.
+## Limitations (UPDATED): New version do not contain these issues.
+- Avoid high-resolution or very complex images (limited to 1MB). Now high resolution image can also be processed.
+- The application may face challenges with large volumes of data generated while image processing. Now there is no such issue.
 
 ## Limatations
 - Dynamic updation limitation (need to re-start application to login, image encrypted code is visible only after re-start)
-- Useer profile may not show any text for encryption but can be copy pasted for decrypting and viewing the image.
-- Takes a long time to process image to text (base64).
+- User profile may not show any text for encryption but can be copy pasted for decrypting and viewing the image.
+- Takes a long time to process image to text (base64 encrypted).
 
 ## Security Considerations
 - Passwords are hashed using MD5, SHA-1, SHA-256, SHA-384, and SHA-512
