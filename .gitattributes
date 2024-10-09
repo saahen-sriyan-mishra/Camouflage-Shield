@@ -1,1 +1,21 @@
 *.cs linguist-language=C#
+# Treat .resx files as XML
+*.resx linguist-language=XML
+
+# Treat .sql files as SQL
+*.sql linguist-language=SQL
+
+# Treat .xsc files as XML
+*.xsc linguist-language=XML
+
+# Treat .xsb files as XML
+*.xsb linguist-language=XML
+
+# Treat .xss files as XML
+*.xss linguist-language=XML
+
+# Treat .csproj files as XML (since .csproj are project files in XML format)
+*.csproj linguist-language=XML
+
+# Treat .sln files as Text
+*.sln linguist-language=Text
