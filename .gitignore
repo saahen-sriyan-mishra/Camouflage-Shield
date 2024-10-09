@@ -1,0 +1,261 @@
+Camouflage Shield Final1/*.rsuser
+Camouflage Shield Final1/*.suo
+Camouflage Shield Final1/*.user
+Camouflage Shield Final1/*.userosscache
+Camouflage Shield Final1/*.sln.docstates
+
+Camouflage Shield Final1/*.userprefs
+
+Camouflage Shield Final1/mono_crash.*
+
+Camouflage Shield Final1/[Dd]ebug/
+Camouflage Shield Final1/[Dd]ebugPublic/
+Camouflage Shield Final1/[Rr]elease/
+Camouflage Shield Final1/[Rr]eleases/
+Camouflage Shield Final1/x64/
+Camouflage Shield Final1/x86/
+Camouflage Shield Final1/[Ww][Ii][Nn]32/
+Camouflage Shield Final1/[Aa][Rr][Mm]/
+Camouflage Shield Final1/[Aa][Rr][Mm]64/
+Camouflage Shield Final1/bld/
+Camouflage Shield Final1/[Bb]in/
+Camouflage Shield Final1/[Oo]bj/
+Camouflage Shield Final1/[Ll]og/
+Camouflage Shield Final1/[Ll]ogs/
+
+Camouflage Shield Final1/.vs/
+
+Camouflage Shield Final1/Generated\ Files/
+
+Camouflage Shield Final1/[Tt]est[Rr]esult*/
+Camouflage Shield Final1/[Bb]uild[Ll]og.*
+
+Camouflage Shield Final1/*.VisualState.xml
+Camouflage Shield Final1/TestResult.xml
+Camouflage Shield Final1/nunit-*.xml
+
+Camouflage Shield Final1/[Dd]ebugPS/
+Camouflage Shield Final1/[Rr]eleasePS/
+Camouflage Shield Final1/dlldata.c
+
+Camouflage Shield Final1/BenchmarkDotNet.Artifacts/
+
+Camouflage Shield Final1/project.lock.json
+Camouflage Shield Final1/project.fragment.lock.json
+Camouflage Shield Final1/artifacts/
+
+Camouflage Shield Final1/ScaffoldingReadMe.txt
+
+Camouflage Shield Final1/StyleCopReport.xml
+
+Camouflage Shield Final1/*_i.c
+Camouflage Shield Final1/*_p.c
+Camouflage Shield Final1/*_h.h
+Camouflage Shield Final1/*.ilk
+Camouflage Shield Final1/*.meta
+Camouflage Shield Final1/*.obj
+Camouflage Shield Final1/*.iobj
+Camouflage Shield Final1/*.pch
+Camouflage Shield Final1/*.pdb
+Camouflage Shield Final1/*.ipdb
+Camouflage Shield Final1/*.pgc
+Camouflage Shield Final1/*.pgd
+Camouflage Shield Final1/*.rsp
+Camouflage Shield Final1/*.sbr
+Camouflage Shield Final1/*.tlb
+Camouflage Shield Final1/*.tli
+Camouflage Shield Final1/*.tlh
+Camouflage Shield Final1/*.tmp
+Camouflage Shield Final1/*.tmp_proj
+Camouflage Shield Final1/*_wpftmp.csproj
+Camouflage Shield Final1/*.log
+Camouflage Shield Final1/*.tlog
+Camouflage Shield Final1/*.vspscc
+Camouflage Shield Final1/*.vssscc
+Camouflage Shield Final1/.builds
+Camouflage Shield Final1/*.pidb
+Camouflage Shield Final1/*.svclog
+Camouflage Shield Final1/*.scc
+
+Camouflage Shield Final1/_Chutzpah*
+
+Camouflage Shield Final1/ipch/
+Camouflage Shield Final1/*.aps
+Camouflage Shield Final1/*.ncb
+Camouflage Shield Final1/*.opendb
+Camouflage Shield Final1/*.opensdf
+Camouflage Shield Final1/*.sdf
+Camouflage Shield Final1/*.cachefile
+Camouflage Shield Final1/*.VC.db
+Camouflage Shield Final1/*.VC.VC.opendb
+
+Camouflage Shield Final1/*.psess
+Camouflage Shield Final1/*.vsp
+Camouflage Shield Final1/*.vspx
+Camouflage Shield Final1/*.sap
+
+Camouflage Shield Final1/*.e2e
+
+Camouflage Shield Final1/$tf/
+
+Camouflage Shield Final1/*.gpState
+
+Camouflage Shield Final1/_ReSharper*/
+Camouflage Shield Final1/*.[Rr]e[Ss]harper
+Camouflage Shield Final1/*.DotSettings.user
+
+Camouflage Shield Final1/_TeamCity*
+
+Camouflage Shield Final1/*.dotCover
+
+Camouflage Shield Final1/.axoCover/*
+Camouflage Shield Final1/!.axoCover/settings.json
+
+Camouflage Shield Final1/coverage*.json
+Camouflage Shield Final1/coverage*.xml
+Camouflage Shield Final1/coverage*.info
+
+Camouflage Shield Final1/*.coverage
+Camouflage Shield Final1/*.coveragexml
+
+Camouflage Shield Final1/_NCrunch_*
+Camouflage Shield Final1/.*crunch*.local.xml
+Camouflage Shield Final1/nCrunchTemp_*
+
+Camouflage Shield Final1/*.mm.*
+Camouflage Shield Final1/AutoTest.Net/
+
+Camouflage Shield Final1/.sass-cache/
+
+Camouflage Shield Final1/[Ee]xpress/
+
+Camouflage Shield Final1/DocProject/buildhelp/
+Camouflage Shield Final1/DocProject/Help/*.HxT
+Camouflage Shield Final1/DocProject/Help/*.HxC
+Camouflage Shield Final1/DocProject/Help/*.hhc
+Camouflage Shield Final1/DocProject/Help/*.hhk
+Camouflage Shield Final1/DocProject/Help/*.hhp
+Camouflage Shield Final1/DocProject/Help/Html2
+Camouflage Shield Final1/DocProject/Help/html
+
+Camouflage Shield Final1/publish/
+
+Camouflage Shield Final1/*.[Pp]ublish.xml
+Camouflage Shield Final1/*.azurePubxml
+Camouflage Shield Final1/*.pubxml
+Camouflage Shield Final1/*.publishproj
+
+Camouflage Shield Final1/PublishScripts/
+
+Camouflage Shield Final1/*.nupkg
+Camouflage Shield Final1/*.snupkg
+Camouflage Shield Final1/**/[Pp]ackages/*
+Camouflage Shield Final1/!**/[Pp]ackages/build/
+Camouflage Shield Final1/*.nuget.props
+Camouflage Shield Final1/*.nuget.targets
+
+Camouflage Shield Final1/csx/
+Camouflage Shield Final1/*.build.csdef
+
+Camouflage Shield Final1/ecf/
+Camouflage Shield Final1/rcf/
+
+Camouflage Shield Final1/AppPackages/
+Camouflage Shield Final1/BundleArtifacts/
+Camouflage Shield Final1/Package.StoreAssociation.xml
+Camouflage Shield Final1/_pkginfo.txt
+Camouflage Shield Final1/*.appx
+Camouflage Shield Final1/*.appxbundle
+Camouflage Shield Final1/*.appxupload
+
+Camouflage Shield Final1/*.[Cc]ache
+Camouflage Shield Final1/!?*.[Cc]ache/
+
+Camouflage Shield Final1/ClientBin/
+Camouflage Shield Final1/~$*
+Camouflage Shield Final1/*~
+Camouflage Shield Final1/*.dbmdl
+Camouflage Shield Final1/*.dbproj.schemaview
+Camouflage Shield Final1/*.jfm
+Camouflage Shield Final1/*.pfx
+Camouflage Shield Final1/*.publishsettings
+Camouflage Shield Final1/orleans.codegen.cs
+
+Camouflage Shield Final1/Generated_Code/
+
+Camouflage Shield Final1/_UpgradeReport_Files/
+Camouflage Shield Final1/Backup*/
+Camouflage Shield Final1/UpgradeLog*.XML
+Camouflage Shield Final1/UpgradeLog*.htm
+Camouflage Shield Final1/ServiceFabricBackup/
+Camouflage Shield Final1/*.rptproj.bak
+
+Camouflage Shield Final1/*.mdf
+Camouflage Shield Final1/*.ldf
+Camouflage Shield Final1/*.ndf
+
+Camouflage Shield Final1/*.rdl.data
+Camouflage Shield Final1/*.bim.layout
+Camouflage Shield Final1/*.bim_*.settings
+Camouflage Shield Final1/*.rptproj.rsuser
+Camouflage Shield Final1/*- [Bb]ackup.rdl
+Camouflage Shield Final1/*- [Bb]ackup ([0-9]).rdl
+Camouflage Shield Final1/*- [Bb]ackup ([0-9][0-9]).rdl
+
+Camouflage Shield Final1/FakesAssemblies/
+
+Camouflage Shield Final1/*.GhostDoc.xml
+
+Camouflage Shield Final1/.ntvs_analysis.dat
+Camouflage Shield Final1/node_modules/
+
+Camouflage Shield Final1/*.plg
+Camouflage Shield Final1/*.opt
+Camouflage Shield Final1/*.vbw
+Camouflage Shield Final1/*.vbp
+Camouflage Shield Final1/*.dsw
+Camouflage Shield Final1/*.dsp
+Camouflage Shield Final1/*.ncb
+Camouflage Shield Final1/*.aps
+
+Camouflage Shield Final1/**/*.HTMLClient/GeneratedArtifacts
+Camouflage Shield Final1/**/*.DesktopClient/GeneratedArtifacts
+Camouflage Shield Final1/**/*.DesktopClient/ModelManifest.xml
+Camouflage Shield Final1/**/*.Server/GeneratedArtifacts
+Camouflage Shield Final1/**/*.Server/ModelManifest.xml
+Camouflage Shield Final1/_Pvt_Extensions
+
+Camouflage Shield Final1/.paket/paket.exe
+Camouflage Shield Final1/paket-files/
+
+Camouflage Shield Final1/.fake/
+
+Camouflage Shield Final1/.cr/personal
+
+Camouflage Shield Final1/__pycache__/
+Camouflage Shield Final1/*.pyc
+Camouflage Shield Final1/*.tss
+Camouflage Shield Final1/*.jmconfig
+
+Camouflage Shield Final1/*.btp.cs
+Camouflage Shield Final1/*.btm.cs
+Camouflage Shield Final1/*.odx.cs
+Camouflage Shield Final1/*.xsd.cs
+
+Camouflage Shield Final1/OpenCover/
+
+Camouflage Shield Final1/ASALocalRun/
+
+Camouflage Shield Final1/*.binlog
+
+Camouflage Shield Final1/*.nvuser
+
+Camouflage Shield Final1/.mfractor/
+
+Camouflage Shield Final1/.localhistory/
+
+Camouflage Shield Final1/.vshistory/
+
+Camouflage Shield Final1/.gitattributes
+
+Camouflage Shield Final1/.sln.ide
