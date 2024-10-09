@@ -1,6 +1,6 @@
 *.cs linguist-language=C#
 *.resx linguist-language=C#
 *.sql linguist-language=SQL
-*.xsc linguist-language=C#
-*.xsb linguist-language=C#
-*.xss linguist-language=C#
+*.xsc linguist-language=xml
+*.xsb linguist-language=xml
+*.xss linguist-language=xml
