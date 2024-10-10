@@ -1,7 +1,6 @@
 *.cs linguist-language=C#
-*.resx linguist-language=xml
-# *.sql linguist-language=TSQL
-* text=auto
-# *.xsc linguist-language=xml
-# *.xsb linguist-language=xml
-# *.xss linguist-language=xml
+.resx linguist-language=XML
+*.sql linguist-language=TSQL
+*.xsc linguist-language=XML
+*.xsb linguist-language=XML
+*.xss linguist-language=XML
