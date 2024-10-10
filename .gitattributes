@@ -1,6 +1,3 @@
 *.cs linguist-language=C#
-.resx linguist-language=XML
-*.sql linguist-language=TSQL
-*.xsc linguist-language=XML
-*.xsb linguist-language=XML
-*.xss linguist-language=XML
+*.sql linguist-vendored
+*.designer.cs linguist-generated
