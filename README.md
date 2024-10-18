@@ -12,6 +12,11 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - Copy and view encrypted image codes.
 - Hash text encrypter supporting MD5, SHA-1, SHA-256, SHA-384, and SHA-512.
 
+## Project Demo
+Here’s the demo video:
+
+[![Demo Video](https://img.youtube.com/vi/ddXKSMe6ECY/0.jpg)](https://youtu.be/ddXKSMe6ECY)
+
 ## Prerequisites
 
 - Visual Studio (for running the project).
