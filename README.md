@@ -5,17 +5,17 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 ## Features
 
+- User Data Encryption using MD5, SHA-1, SHA-256, SHA-384, and SHA-512
+- Full Frontend functionality to handle user inputs.
 - User signup with OTP verification (for demonstration purposes).
 - Strong password enforcement during user registration.
 - Multi-algorithm image encryption (AES, DES, 3DES, RC2, Rijndael).
 - Image storage in Base64 format with encryption details.
 - Copy and view encrypted image codes.
-- Hash text encrypter supporting MD5, SHA-1, SHA-256, SHA-384, and SHA-512.
+- Hash text encrypter supporting all above mentioned Hashes.
 
 ## Project Demo
 Here’s the demo video:
-
-[![Demo Video](https://img.youtube.com/vi/ddXKSMe6ECY/0.jpg)](https://youtu.be/ddXKSMe6ECY)
 
 ## Prerequisites
 
