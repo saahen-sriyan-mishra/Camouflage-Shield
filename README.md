@@ -92,7 +92,7 @@ Key: BAT
 - The application may face challenges with large volumes of data generated while image processing. Now there is no such issue.
 
 ## Limatations
-- Dynamic updation limitation (need to re-start application to login, image encrypted code is visible only after re-start)
+- Dynamic updation limitation (need to re-start application to login, encrypted image string is visible only after re-start)
 - User profile may not show any text for encryption but can be copy pasted for decrypting and viewing the image.
 - Takes a long time to process image to text (base64 encrypted).
 
