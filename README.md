@@ -2,7 +2,10 @@
 
 Camouflage Shield is a Windows Form application designed for sensitive image storage in an encrypted format.
 The project employs various encryption and hashing algorithms to ensure secure user authentication and image protection.  
-**Article:** [dev.to post](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
+
+**Article:** 
+- [dev.to post](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
+- [medium](https://medium.com/@saahenmishra/camouflage-shield-an-image-encryption-application-50d1e4e8cacb)
 
 ## Features
 
