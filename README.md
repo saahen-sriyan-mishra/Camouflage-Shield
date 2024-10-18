@@ -14,9 +14,6 @@ The project employs various encryption and hashing algorithms to ensure secure u
 - Copy and view encrypted image codes.
 - Hash text encrypter supporting all above mentioned Hashes.
 
-## Project Demo
-Here’s the demo video:
-
 ## Prerequisites
 
 - Visual Studio (for running the project).
