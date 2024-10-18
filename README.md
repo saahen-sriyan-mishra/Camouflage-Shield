@@ -95,7 +95,9 @@ Key: BAT
 - Dynamic updation limitation (need to re-start application to login, encrypted image string is visible only after re-start)
 - User profile may not show any text for encryption but can be copy pasted for decrypting and viewing the image.
 - Takes a long time to process image to text (base64 encrypted).
-
+- UI is practical but not attractive.
+- The database created is for Development phase use a practical application shall have a DB server hosted instead of the local machine.
+- 
 ## Security Considerations
 - Passwords are hashed using MD5, SHA-1, SHA-256, SHA-384, and SHA-512
 - Multi-algorithm image encryption using AES, DES, 3DES, RC2, Rijndael.
