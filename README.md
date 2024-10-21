@@ -5,7 +5,6 @@ The project employs various encryption and hashing algorithms to ensure secure u
 
 **Article:** 
 - [dev.to post](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
-- [medium](https://medium.com/@saahenmishra/camouflage-shield-an-image-encryption-application-50d1e4e8cacb)
 
 ## Features
 
